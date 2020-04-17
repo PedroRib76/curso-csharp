@@ -17,6 +17,8 @@ namespace Matriz
             Console.WriteLine(mat.GetLength(1));
 
             Console.WriteLine("Teste de comando GIT");
+
+            Console.WriteLine("Segunda mensagem.");
         }
     }
 }
